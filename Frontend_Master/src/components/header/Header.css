@@ -1,0 +1,11 @@
+.logoWeb {
+    height: 60px;
+    width: 60px;
+    border-radius: 35px;
+}
+
+@media screen and (max-width: 500px) {
+    .inPhone {
+        display: none;
+    }
+}
